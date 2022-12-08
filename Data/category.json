@@ -1,0 +1,22 @@
+[
+   {
+      "id":"1",
+     "name":"All Post"
+   },
+   {
+     "id":"2",
+      "name":"Article"
+   },
+   {
+      "id":"3",
+      "name":"Event"
+   },
+   {
+      "id":"4",
+      "name":"Education"
+   },
+   {
+      "id":"5",
+      "name":"Job"
+   }
+]

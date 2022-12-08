@@ -1,0 +1,46 @@
+[
+   {
+      "id":1123,
+      "category":"2",
+      "type":"Article",
+      "name": "What if famous brands had regular fonts? Meet RegulaBrands!",
+      "desc":"I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+      "writter":"Sarthak Kamra",
+      "articleImg":"https://i.ibb.co/TBqZQJ2/pexels-veeterzy-38136.jpg",
+      "view":"1.4k",
+      "writerImg":"https://i.ibb.co/WWy973j/pexels-simon-robben-977796.jpg"
+   },
+   {
+      "id":1124,
+      "category":"4",
+      "type":"Education",
+      "name": "Tax Benefits for Investment under National Pension Scheme launched by Government",
+      "desc":"I’ve worked in UX for the better part of a decade. From now on, I plan to rei…",
+      "writter":"Sarah West",
+      "articleImg":"https://i.ibb.co/3mYf8Y9/pexels-mike-yakaites-1123876.jpg",
+      "view":"1.4k",
+      "writerImg":"https://i.ibb.co/PzDTchP/pexels-engin-akyurt-1642228.jpg"
+   },
+   {
+      "id":1125,
+      "category":"3",
+      "type":"Meetup",
+      "name": "Finance & Investment Elite Social Mixer @Lujiazui",
+      "date":"Fri, 12 Oct, 2018",
+      "address":"Ahmedabad, India",
+      "writter":"Ronal Jones",
+      "articleImg":"https://i.ibb.co/myGz0ZL/pexels-mike-b-116675.jpg",
+      "view":"1.4k",
+      "writerImg":"https://i.ibb.co/YNTyBhv/pexels-min-an-1009904.jpg"
+   },
+   {
+      "id":1126,
+      "category":"5",
+      "type":"Job",
+      "name": "Software Developer",
+      "companyName":"Innovaccer Analytics Private Ltd.",
+      "address":"Noida, India",
+      "view":"1.4k",
+      "writerImg":"https://i.ibb.co/MfQKN0M/pexels-myicahel-tamburini-1553783.jpg"
+   }
+]
